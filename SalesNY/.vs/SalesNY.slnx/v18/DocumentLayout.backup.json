@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|c:\\users\\camil\\onedrive\\desktop\\trabajo bbdd\\salesny\\salesny.server\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|solutionrelative:salesny.server\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|c:\\users\\camil\\onedrive\\desktop\\trabajo bbdd\\salesny\\salesny.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|solutionrelative:salesny.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|c:\\users\\camil\\onedrive\\desktop\\trabajo bbdd\\salesny\\salesny.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5908C92E-3E2F-E12A-50DF-BC110B9BF283}|SalesNY.Server\\SalesNY.Server.csproj|solutionrelative:salesny.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29444B93-958A-42B3-8D1C-4CCDC395ACD3}|SalesNY.AppHost\\SalesNY.AppHost.csproj|c:\\users\\camil\\onedrive\\desktop\\trabajo bbdd\\salesny\\salesny.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29444B93-958A-42B3-8D1C-4CCDC395ACD3}|SalesNY.AppHost\\SalesNY.AppHost.csproj|solutionrelative:salesny.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesNY.Server\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29444B93-958A-42B3-8D1C-4CCDC395ACD3}|SalesNY.AppHost\\SalesNY.AppHost.csproj|c:\\users\\camil\\onedrive\\desktop\\trabajo bbdd\\salesny\\salesny.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29444B93-958A-42B3-8D1C-4CCDC395ACD3}|SalesNY.AppHost\\SalesNY.AppHost.csproj|solutionrelative:salesny.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesNY.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\appsettings.json",
+              "RelativeToolTip": "SalesNY.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T21:25:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Program.cs",
+              "RelativeDocumentMoniker": "SalesNY.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Program.cs",
+              "RelativeToolTip": "SalesNY.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T20:04:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SalesNY.Server\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SalesNY.Server\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T21:41:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesNY.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.AppHost\\appsettings.json",
+              "RelativeToolTip": "SalesNY.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T20:01:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SalesNY.Server\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SalesNY.Server\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T21:15:25.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.AppHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SalesNY.AppHost\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Desktop\\Trabajo BBDD\\SalesNY\\SalesNY.AppHost\\appsettings.Development.json",
+              "RelativeToolTip": "SalesNY.AppHost\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T20:02:01.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

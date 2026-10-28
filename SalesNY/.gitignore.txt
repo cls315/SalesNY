@@ -1,0 +1,17 @@
+# Archivos temporales e índices de Visual Studio
+.vs/
+*.vsidx
+
+# Carpeta de dependencias de Node.js
+node_modules/
+
+# Carpetas de compilación de .NET
+bin/
+obj/
+out/
+
+# Archivos de configuración local y logs
+*.user
+*.suo
+*.log
+.env
