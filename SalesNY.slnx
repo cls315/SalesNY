@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SalesNY.AppHost/SalesNY.AppHost.csproj" />
+  <Project Path="SalesNY.Server/SalesNY.Server.csproj" />
+</Solution>

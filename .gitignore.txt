@@ -1,0 +1,18 @@
+# Archivos temporales e índices de Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Carpetas de compilación de .NET
+bin/
+obj/
+out/
+
+# Dependencias y builds de React / Node
+node_modules/
+dist/
+
+# Variables de entorno y logs
+*.log
+.env
